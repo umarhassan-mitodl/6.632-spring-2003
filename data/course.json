@@ -27,6 +27,7 @@
     "website": "6-632-electromagnetic-wave-theory-spring-2003"
   },
   "course_title": "Electromagnetic Wave Theory",
+  "hide_download": true,
   "course_description": "6.632 is a graduate subject on electromagnetic wave theory, emphasizing mathematical approaches, problem solving, and physical interpretation. Topics covered include: waves in media, equivalence principle, duality and complementarity, Huygens' principle, Fresnel and Fraunhofer diffraction, dyadic Green's functions, Lorentz transformation, and Maxwell-Minkowski theory. Examples deal with limiting cases of Maxwell's theory and diffraction and scattering of electromagnetic waves.\n",
   "department_numbers": [
     "6"
@@ -37,6 +38,7 @@
     "content": "e22eda8f-15fe-30ad-75d0-1bc0c7599192",
     "website": "6-632-electromagnetic-wave-theory-spring-2003"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Simulation Videos",
     "Problem Sets",

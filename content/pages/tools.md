@@ -2,6 +2,8 @@
 content_type: page
 description: "This section contains MATLAB\xAE demonstrations, which help to illustrate\
   \ principles of electrodynamic wave theory covered in the course."
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 ocw_type: CourseSection

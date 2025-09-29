@@ -4,6 +4,8 @@ description: Problem set on electromagnetic wave theory.
 file: /courses/6-632-electromagnetic-wave-theory-spring-2003/a5ab7b71d5f8b4adc0b0c01aff0ac23c_ps7.pdf
 file_size: 324934
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
